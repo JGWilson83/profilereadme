@@ -6,11 +6,9 @@
 
 I'm a passionate **Data Scientist** with experience in **[technologies you're proficient in]**. I enjoy tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.  I love working with data!
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
+- 🌱 Currently learning: **Azure, Databricks, ADF**
+- 🔭 Working on: **Railway-related data science problems**
 - 🌍 Languages: **Python, R, SQL, Spark**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
 
 ## My Skills 🧠
 
@@ -24,9 +22,7 @@ I'm a passionate **Data Scientist** with experience in **[technologies you're pr
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-## Get in Touch 📬
 
-- !**[LinkedIn]**(https://www.linkedin.com/in/james-wilson-0830462b/)
-- !**[LinkedIn]**(https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 
 
