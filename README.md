@@ -1,6 +1,6 @@
 # Hi there, I'm James! 👋
 
-![Banner Image](./github-header-image.png)
+![Banner Image](./header-banner-image.png)
 
 ## About Me 🚀
 
