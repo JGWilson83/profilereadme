@@ -26,6 +26,6 @@ I'm a passionate **Data Scientist** with experience in **[technologies you're pr
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(https://www.linkedin.com/in/james-wilson-0830462b/)
+- !**[LinkedIn]**(https://www.linkedin.com/in/james-wilson-0830462b/)
 
 
